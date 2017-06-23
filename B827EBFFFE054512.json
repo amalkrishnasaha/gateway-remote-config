@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFE054512",
+    "gateway_ID": "B827EBFFFED39336",
     "servers": [
       {
         "server_address": "212.40.22.34",
@@ -9,10 +9,10 @@
         "serv_enabled": true
       }
     ],
-     "ref_latitude": 46.525104,
-     "ref_longitude": 6.538975,
-     "ref_altitude": 399,
-     "contact_email": "dylan.collaud@gmail.com",
-     "description": "gnz @ Denges"
+     "ref_latitude": 23.81727895,
+     "ref_longitude": 86.44156982,
+     "ref_altitude": 212,
+     "contact_email": "amalkrishna.saha@yahoo.com",
+     "description": "IIT_ISM"
   }
 }
